@@ -136,10 +136,10 @@ Além dos valores do discriminante (Δ) e das raízes, **escreva no resultado ta
      pode ser visto no
      [slide sobre valores de um input][valor-do-input].
 
-[input]: https://fegemo.github.io/cefet-front-end/classes/js1/#campo-de-entrada-numerica
-[button]: https://fegemo.github.io/cefet-front-end/classes/js1/#botoes-de-acao
-[incluindo-js]: https://fegemo.github.io/cefet-front-end/classes/js1/#inserindo-javascript-na-pagina
-[recuperar-elemento-dom]: https://fegemo.github.io/cefet-front-end/classes/js1/#recuperando-elemento-dom
-[valor-do-input]: https://fegemo.github.io/cefet-front-end/classes/js1/#valor-do-input
-[operadores]: https://fegemo.github.io/cefet-front-end/classes/js0/#operadores
-[funcoes-matematicas]: https://fegemo.github.io/cefet-front-end/classes/js0/#o-objeto-math
+[input]: https://willsallum.github.io/cefet_front_end/classes/js1/#campo-de-entrada-numerica
+[button]: https://willsallum.github.io/cefet_front_end/classes/js1/#botoes-de-acao
+[incluindo-js]: https://willsallum.github.io/cefet_front_end/classes/js1/#inserindo-javascript-na-pagina
+[recuperar-elemento-dom]: https://willsallum.github.io/cefet_front_end/classes/js1/#recuperando-elemento-dom
+[valor-do-input]: https://willsallum.github.io/cefet_front_end/classes/js1/#valor-do-input
+[operadores]: https://willsallum.github.io/cefet_front_end/classes/js0/#operadores
+[funcoes-matematicas]: https://willsallum.github.io/cefet_front_end/classes/js0/#o-objeto-math
