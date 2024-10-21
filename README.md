@@ -5,7 +5,7 @@ de 2º grau! Baixe o [código seminal][seminal].
 
 ![Resultado final desejado para o exercício](imgs/resultado-final.png)
 
-[seminal]: https://github.com/fegemo/cefet-front-end-math/archive/main.zip
+[seminal]: https://github.com/willsallum/cefet_front_end_math/archive/main.zip
 
 
 ## Atividade
